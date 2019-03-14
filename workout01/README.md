@@ -1,0 +1,6 @@
+#workout01-akhil-perimbeti
+
+
+The purpose of this homework is to import and manipulate player data sets to create graphics to get a better idea understanding of the effectivness of players on the Golden State Warriors. We are asked to add, switch and mutate certain columns in the player data to create 5 unique shot-charts, which show the distribution of the attempted shots and made shots on the court. For the report part of the workout, we must write a report of a minimum of a 1000 words, that takes all the information we have created and visualized and puts it in the form of a data analysis article. In addition to the shot charts, we must calculate 2-pt, 3-pt, and overall effective shot percentages for the players. This workout tests our competency with working with and manipulating dataframes as well as our plotting and data visualization skills. 
+
+I added a new code section that was used to create the 2PT, 3PT overall shooting effectiveness for our players. This code section is saved under shot-percent-tables.R. What I did in this section was I seperated the shot_yes values, counted them, then compared them to total shots to find the percentage of made shots for 2PT, 3PT and both comind overall effectivenbess of shots.
